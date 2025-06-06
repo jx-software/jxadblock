@@ -1,6 +1,6 @@
 {
-  "version_tag": "20250531-170901",
+  "version_tag": "20250606-170350",
   "blocklist_url": "https://raw.githubusercontent.com/jx-software/jxadblock/refs/heads/main/blocklist.enc",
-  "checksum_sha256": "f88b7d77f7a3e7a631a72c401008a0d611f5928807fd14354ed57bc2731265c7",
+  "checksum_sha256": "c28f28a999221c0d5d9406d1332d4890dd9bd607a6f50e1c56a4220313dc8882",
   "nonce_size_bytes": 12
 }
