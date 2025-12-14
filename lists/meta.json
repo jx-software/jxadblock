@@ -1,0 +1,13 @@
+{
+  "version": "2025.12.14",
+  "lists": [
+    {
+      "id": "main",
+      "file": "lists/main.enc",
+      "name": "Main blocklist",
+      "entries": 46849,
+      "updated": "2025-12-14T08:07:21Z",
+      "sha256": "6a5732b3289957b85d0ae6f3c8426d1f5bb3c7653486cab4ce0eac8c9c3b6f01"
+    }
+  ]
+}
